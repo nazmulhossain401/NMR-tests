@@ -1,1 +1,1 @@
-# NMR-tests
+This program processes raw NMR data exported from Bruker's TopSpin software and converts it into fully analyzable NMR spectra. It includes functionality for parsing the raw data files, applying necessary transformations (e.g., Fourier transform, phase correction, baseline correction), and outputting the processed spectra in a format suitable for visualization or further analysis. Ideal for streamlining NMR data workflows in research environments.
